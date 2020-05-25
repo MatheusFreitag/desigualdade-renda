@@ -22,7 +22,7 @@ var money = new Intl.NumberFormat('en-US', {
 
 //todo: also work for 400 richest
 window.addEventListener('scroll', function(){
-  update_wealth_counter();
+  // update_wealth_counter();
 });
 
 function generate_sixty_percent() {
@@ -55,7 +55,7 @@ function update_wealth_counter() {
   if (bezos_viewable()) {
     if (bezos_counter_viewable()) {
       let wealth = (window.scrollX - bezos.offsetLeft + 175) * 500000;
-      bezos_counter.innerHTML = (wealth < 139000000000) ? money.format(wealth) : "$139,000,000,000.00";
+      bezos_counter.innerHTML = (wealth < 81500000000) ? money.format(wealth) : "$81,500,000,000.00";
     }
     else {
       bezos_counter.innerHTML = '';

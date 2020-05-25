@@ -130,7 +130,7 @@ h1 {
   margin-bottom: 5px;
 }
 .billion .wealth > .wealth-title {
-  flex-basis: 110px;
+  flex-basis: 130px;
   position: static;
 }
 .four-hundred .wealth > .wealth-title {
@@ -268,15 +268,15 @@ h1 {
   width: 480px;
 }
 .median .wealth{
-  width: 7.94px;
-  height: 7.94px;
+  width: 2.25px;
+  height: 2.25px;
 }
 .million {
   width: 200px;
 }
 .million .wealth {
-  width: 33.62px;
-  height: 33.62px;
+  width: 31.62px;
+  height: 31.62px;
   background-color: #4CAF50;
 }
 .billion .wealth {
@@ -285,13 +285,13 @@ h1 {
   background-color: #03A9F4;
 }
 .bezos .wealth {
-  width: 278000px;
+  width: 163000px;
   height: 500px;
   background-color: orange;
 }
 .four-hundred .wealth {
   margin-left: 100px;
-  width: 5920000px;
+  width: 817440;
   height: 500px;
   background-color: #03A9F4;
 }
@@ -332,23 +332,23 @@ h1 {
   min-width: 140px;
 }
 .lifetime .square {
-  width: 41.23px;
-  height: 41.23px;
+  width: 34.64px;
+  height: 34.64px;
   background-color: blue;
 }
 .healthcare .square {
-  width: 4.96px;
-  height: 4.96px;
+  width: 7.42px;
+  height: 7.42px;
   background-color: blue;
 }
 .amazon-year .square {
-  width: 5.4px;
-  height: 5.4px;
+  width: 6.24px;
+  height: 6.24px;
   background-color: blue;
 }
 .year-veteran .square {
   height: 400px;
-  width: 1186px;
+  width: 575px;
   margin-top: 5px;
   background-color: #8BC34A;
 }
@@ -366,7 +366,7 @@ h1 {
 }
 .year-chemo .square {
   height: 400px;
-  width: 22500px;
+  width: 11750px;
   background-color: #03A9F4;
   border: 5px dashed #0078af;
   box-sizing: border-box;
@@ -393,28 +393,28 @@ h1 {
   background-color: #406994;
 }
 .goldman .square {
-  width: 223px;
-  height: 223px;
+  width: 151.65px;
+  height: 151.65px;
   background-color: #64A8F0;
 }
 .tim-cook .square {
-  width: 1785px;
+  width: 1900px;
   height: 350px;
   background-color: #71889e;
 }
 .doctor .square {
-  width: 81.8px;
-  height: 81.8px;
+  width: 73.89px;
+  height: 73.89px;
   background-color: #0661b9;
 }
 .lawyer .square {
-  width: 63.2px;
-  height: 63.2px;
+  width: 65.57px;
+  height: 65.57px;
   background-color: #00478a;
 }
 .hedgefund .square {
-  width: 289.8px;
-  height: 289.8px;
+  width: 480px;
+  height: 350px;
   background-color: #9daebf;
 }
 .line-chart .chart-outer {
